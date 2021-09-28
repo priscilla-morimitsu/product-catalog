@@ -1,10 +1,10 @@
 import Link from 'next/link';
+import { useAmountCollected } from '../../context/AmountContext';
 import { formatMoney } from '../../utils/formaters';
 
 export const Header = () => {
 
-  const totalAmountCollected = 3;
-  const numberOfProjects = 30;
+  const { totalAmountCollected, numberOfProjects } = useAmountCollected();
 
   return (
     <nav className="navbar is-primary is-fixed-top">
