@@ -1,3 +1,5 @@
+import { Header } from "../components/molecule/Header";
+
 export default function Home() {
-  return <p>Home page</p>
+  return <Header />
 }
