@@ -1,0 +1,30 @@
+{
+  "name": "catarsinho",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "axios": "^0.21.4",
+    "bulma": "^0.9.3",
+    "next": "11.1.2",
+    "react": "17.0.2",
+    "react-dom": "17.0.2"
+  },
+  "devDependencies": {
+    "@testing-library/dom": "^8.6.0",
+    "@testing-library/jest-dom": "^5.14.1",
+    "@testing-library/react": "^12.1.1",
+    "@types/react": "17.0.24",
+    "babel-jest": "^27.2.2",
+    "eslint": "7.32.0",
+    "eslint-config-next": "11.1.2",
+    "jest": "^27.2.2",
+    "jest-dom": "^4.0.0",
+    "typescript": "4.4.3"
+  }
+}
