@@ -1,5 +1,5 @@
 <h1 align="center">
-  Projeto Catarsinho
+  Catálogo de Produtos
   <br>
 </h1>
 

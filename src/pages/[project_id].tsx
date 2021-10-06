@@ -32,7 +32,7 @@ export default function Home () {
   return (
     <>
       <Head>
-        <title>{project?.title} | Catarsinho</title>
+        <title>{project?.title} | Catálogo</title>
       </Head>
 
       <Header />

@@ -10,7 +10,7 @@ export const Header = () => {
     <nav className="navbar is-primary is-fixed-top">
       <div className="navbar-brand">
         <Link href="/" passHref={true}>
-          <a className="navbar-item is-size-4 has-text-weight-bold">Catarsinho</a>
+          <a className="navbar-item is-size-4 has-text-weight-bold">Catálogo</a>
         </Link>
       </div>
 

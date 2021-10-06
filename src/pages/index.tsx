@@ -21,7 +21,7 @@ export default function Home () {
   return (
     <>
       <Head>
-        <title>Catarsinho</title>
+        <title>Catálogo</title>
       </Head>
 
       <Header />
