@@ -7,11 +7,12 @@
 
 - ReactJS 
 - NextJS
+- Typescript
 
 ## Utilização
 
-- Após realizar o clone do projeto, execute o comando `yarn` para instalar os pacotes necessários.
-- Execute localmente o projeto utilizando o comando `yarn dev`.
+- Após realizar o clone do projeto, execute o comando `yarn` ou `npm install` para instalar os pacotes necessários.
+- Execute localmente o projeto utilizando o comando `yarn dev` ou `npm run dev`.
 - Execute o servidor local com o comando `json-server -p 3333 --watch db.json`.
 
 ## Testes
